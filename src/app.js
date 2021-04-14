@@ -31,7 +31,7 @@ class Main extends Component {
                 <Route exact path="/" component={Home} />
                 <Route path="/imprint" component={Imprint} />
                 <footer class="footer">
-                    <p>Built with Jekyll and <span class="love">❤</span> by <a href="https://github.com/lauralani">Laura Kalb</a> and delivered with Microsoft Azure - <NavLink exact to="/">Home</NavLink> - <NavLink to="/imprint">Datenschutz</NavLink></p>
+                    <p>Built with React and <span class="love">❤</span> by <a href="https://github.com/lauralani">Laura Kalb</a> and delivered with Microsoft Azure - <NavLink exact to="/">Home</NavLink> - <NavLink to="/imprint">Datenschutz</NavLink></p>
                 </footer>
             </HashRouter>
         );
