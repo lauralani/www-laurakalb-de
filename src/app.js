@@ -26,7 +26,7 @@ class Main extends Component {
                         <div class="header-links">
                         </div>
                     </div>
-                    <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down"></i></a>
+                    <div class="down"><i class="icon fa fa-chevron-down"></i></div>
                 </div>
                 <Route exact path="/" component={Home} />
                 <Route path="/imprint" component={Imprint} />

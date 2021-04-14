@@ -4573,7 +4573,6 @@ sub, sup {
     display: block;
     font-size: 30px;
     line-height: 30px;
-    cursor: pointer;
     border: none!important;
 }
 
@@ -4592,9 +4591,11 @@ sub, sup {
     animation: pulse 1.3s infinite
 }
 
+/*
 .down .icon:active, .down .icon:hover, .footer a:active, .footer a:hover {
     color: #4b5664
 }
+*/
 
 #about {
     font-size: 120%;
