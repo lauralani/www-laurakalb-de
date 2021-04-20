@@ -19,7 +19,7 @@ class Main extends Component {
                             <span class="site-description">Network Engineer</span>
                         </h1>
                         <div class="header-icons">
-                            <a aria-label="Send email" href="mailto:career@laurakalb.de"><i class="icon fa fa-envelope"></i></a>
+                            <a aria-label="Contact me" target="_blank" rel="noreferrer" href="https://contact.lauka.app"><i class="icon fa fa-envelope"></i></a>
                             <a aria-label="My LinkedIn" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/laura-kalb/"><i class="icon fa fa-linkedin-square"></i></a>
                             <a aria-label="My Github" target="_blank" rel="noreferrer" href="https://github.com/lauralani"><i class="icon fa fa-github-alt"></i></a>
                         </div>
