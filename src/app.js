@@ -20,7 +20,7 @@ class Main extends Component {
                         </h1>
                         <div class="header-icons">
                             <a aria-label="Contact me" target="_blank" rel="noreferrer" href="https://contact.lauka.app"><i class="icon fa fa-envelope"></i></a>
-                            <a aria-label="My Xing" target="_blank" rel="noreferrer" href="https://www.xing.com/profile/Laura_Kalb3"><i class="fab fa-xing-square"></i></a>
+                            <a aria-label="My Xing" target="_blank" rel="noreferrer" href="https://www.xing.com/profile/Laura_Kalb3"><i class="icon fab fa-xing-square"></i></a>
                             <a aria-label="My LinkedIn" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/laura-kalb/"><i class="icon fa fa-linkedin-square"></i></a>
                             <a aria-label="My Github" target="_blank" rel="noreferrer" href="https://github.com/lauralani"><i class="icon fa fa-github-alt"></i></a>
                         </div>
