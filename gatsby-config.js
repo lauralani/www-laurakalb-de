@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Cara`,
     siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
     siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: `https://wonderful-beach-0913a2a03-10.westeurope.azurestaticapps.net`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
