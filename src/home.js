@@ -13,9 +13,9 @@ class Home extends Component {
                     <div class="tech">
                         <h2>Networking</h2>
                         <img src="img/cisco.svg" alt="cisco logo" />
-                        <img src="img/checkpoint.svg" alt="checkpoint logo" />
+                        <img src="img/juniper.svg" alt="juniper logo" />
                         <img src="img/vnet.svg" alt="vnet logo" />
-                        <p>I've primarily managed networks built on Cisco Nexus, Catalyst, routers and firewalls, in addition to Check Point firewalls and Azure Networking.</p>
+                        <p>I've primarily managed networks built on Cisco and Juniper routers and firewalls, in addition to Check Point firewalls and Azure Networking.</p>
                     </div>
                     <div class="tech">
                         <h2>Code</h2>
@@ -29,7 +29,7 @@ class Home extends Component {
                         <img src="img/git.svg" alt="git logo" />
                         <img src="img/centos.svg" alt="centos logo" />
                         <img src="img/azure.svg" alt="azure logo" />
-                        <p>Git, Linux, Azure, Docker, you name it, I have used too many tools to count!</p>
+                        <p>Git, Linux, Azure, Docker, Ansible, you name it, I have used too many tools to count!</p>
                     </div>
                 </div>
             </section>
